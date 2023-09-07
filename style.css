@@ -1,0 +1,16 @@
+/* Adding style to the header */
+header {
+    background-color: #3498db;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Styling the container */
+.container {
+    border: 2px solid #e1e1e1;
+    height: 75vh;
+    margin-top: 10px;
+    text-align: center;
+    cursor: pointer;
+}
